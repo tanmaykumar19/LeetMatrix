@@ -53,6 +53,7 @@ LeetMatrix/
 └── README.md
 
 📢 Disclaimer
+
 This tool uses unofficial methods to fetch LeetCode data. It is intended for personal use and educational purposes only.
 
 🙌 Acknowledgements
@@ -63,5 +64,5 @@ Chart.js for visualizations
 CORS Anywhere for API access
 
 🧑‍💻 Author
+
 Tanmay Kumar
-GitHub
